@@ -82,7 +82,7 @@
         </dependency>
     </dependencies>
 
-   <scm>
+    <scm>
         <connection>scm:git:git@github.com:simasch/camel-webdav.git</connection>
         <developerConnection>scm:git:git@github.com:simasch/camel-webdav.git</developerConnection>
         <url>git@github.com:simasch/camel-webdav.git</url>        
