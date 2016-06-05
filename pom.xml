@@ -9,7 +9,7 @@
         <version>9</version>
     </parent>
 
-    <groupId>ch.simas</groupId>
+    <groupId>ch.simas.camel</groupId>
     <artifactId>camel-webdav</artifactId>
     <version>0.0.2-SNAPSHOT</version>
     
