@@ -1,4 +1,4 @@
-# WebDAV Componenten for Apache Camel
+# WebDAV Component for Apache Camel
 
 This component provides access to remote servers using theWebDAV protocol.
 https://en.wikipedia.org/wiki/WebDAV
